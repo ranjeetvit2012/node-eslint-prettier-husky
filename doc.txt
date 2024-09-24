@@ -1,0 +1,18 @@
+
+npm init @eslint/config@latest
+
+npx run --fix
+
+√ How would you like to use ESLint? · syntax
+√ What type of modules does your project use? · esm
+√ Which framework does your project use? · none
+√ Does your project use TypeScript? · typescript
+√ Where does your code run? · browser
+The config that you've selected requires the following dependencies:
+
+eslint, globals, typescript-eslint
+√ Would you like to install them now? · No / Yes
+√ Which package manager do you want to use? · yarn
+
+
+install eslint in visual stido code
