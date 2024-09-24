@@ -1,6 +1,9 @@
 import express from "express";
+import userData from "./user";
 const app = express();
 const port = 3000;
+
+userData();
 
 /*eslint space-before-function-paren: "error"*/
 // function foo() {

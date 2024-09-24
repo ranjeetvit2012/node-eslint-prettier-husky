@@ -1,4 +1,3 @@
-
 {
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
@@ -12,5 +11,5 @@
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
-  },
+  }
 }
